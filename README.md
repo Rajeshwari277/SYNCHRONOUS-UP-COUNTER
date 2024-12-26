@@ -44,8 +44,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: K. Moulika Akshaya   RegisterNumber: 24900229
-*/
+Developed by: RAJESHWARI,M   RegisterNumber: 24900813
 
 ![synchronous up counter code](https://github.com/user-attachments/assets/d43e4c48-7d12-4dee-8adb-36ef692fd8dc)
 
